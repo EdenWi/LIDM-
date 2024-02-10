@@ -1,0 +1,38 @@
+/* Dashboard.css */
+.dashboard-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding:20px;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+    background-color: #3498db;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar img {
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .navbar p {
+    margin: 0;
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .square {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
